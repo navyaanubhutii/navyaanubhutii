@@ -76,8 +76,8 @@ I'm still learning, so this stack reflects tools I've used or explored across co
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=navyaanubhutii&show_icons=true&hide_border=true&theme=rose_pine&rank_icon=github" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyaanubhutii&layout=compact&hide_border=true&theme=rose_pine" alt="Most-used languages"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=navyaanubhutii&show_icons=true&hide_border=true&theme=rose_pine&rank_icon=github" alt="GitHub stats"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=navyaanubhutii&layout=compact&hide_border=true&theme=rose_pine" alt="Most-used languages"/>
 </div>
 
 <div align="center">
