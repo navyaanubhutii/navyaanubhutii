@@ -64,14 +64,14 @@ I'm still learning, so this stack reflects tools I've used or explored across co
 ## A little personality in my contribution graph 🧶
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/navyaanubhutii/navyaanubhutii/output/cat-yarn.svg" alt="Cat chasing a yarn ball across the contribution graph"/>
+  <img src="https://raw.githubusercontent.com/navyaanubhutii/navyaanubhutii/cat-animation/cat-yarn.svg" alt="Cat chasing a yarn ball across the contribution graph"/>
 </div>
 
 <p align="center">
   <sub>One commit at a time. One yarn ball at a time. 🐈</sub>
 </p>
 
-The cat animation needs a GitHub Actions workflow that generates `cat-yarn.svg` and publishes it to the `output` branch before it will display.
+
 
 ## GitHub activity
 
